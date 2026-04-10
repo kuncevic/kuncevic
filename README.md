@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## [`I help tech-enabled businesses scale software engineering confidently`](https://www.linkedin.com/in/kuncevic)
+
+# 🧐 I’ve seen:
+
+ - Stuff that worked now bottlenecking you 
+ - Devs dropping the ball
+ - Projects trapped in hype (looking at you, AI slop)
+ - ... 😭
+
+# ✅ Here’s how we can tackle it:
+
+ - I figure out what’s broken (**Discovery**) 
+ - We map a clear path (**Roadmapping**)
+ - **`I`** build it, **`you`** build it, or **`we`** build it **`together`** (**Execution**) 
+ - I make sure it sticks long term (**Support**)
+
+### No fluff, no hype. 
+### Just getting your tech to actually work so your business can scale.
+
+👉 [`DM me if you want a case study or a straight-up chat`](https://www.linkedin.com/in/kuncevic)
